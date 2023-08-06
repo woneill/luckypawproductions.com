@@ -1,0 +1,34 @@
+baseURL = 'https://luckypawproductions.com/'
+languageCode = 'en-us'
+title = 'Lucky Paw Productions'
+theme = "personal-web"
+copyright = "2023"
+
+[params.intro]
+  main = "Kim O'Neill, Lucky Paw Productions"
+  sub = "Creative Storytelling via video production"
+
+[params.sidebar]
+  #backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  #gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/headshot.jpg"
+
+[params.assets]
+  favicon = ""
+  customCSS = "/custom.css"
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110

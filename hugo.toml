@@ -17,6 +17,16 @@ copyright = "2023"
   favicon = ""
   customCSS = "/custom.css"
 
+[params.social]
+  linkedin = "https://www.linkedin.com/in/kimberly-o-neill-a307ab"
+  # facebook = "https://www.facebook.com/"
+  # youtube = "https://www.youtube.com/"
+  # instagram = "https://www.instagram.com/"
+
+[params.contact]
+  email = "kim@luckypawproductions.com"
+  text= "Email Me!" # text of the contact link in the sidebar. If email params.contact.email is defined
+
 [menu]
 
 [[menu.main]]

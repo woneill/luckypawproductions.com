@@ -5,13 +5,13 @@ theme = "personal-web"
 copyright = "2023"
 
 [params.intro]
-  main = "Kim O'Neill, Lucky Paw Productions"
-  sub = "Creative Storytelling via video production"
+  main = "Kim O'Neill"
+  sub = "Owner/Video Editor, Producer, Storyteller"
 
 [params.sidebar]
   #backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   #gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/headshot.jpg"
+  logo = "/images/luckypawproductions.jpg"
 
 [params.assets]
   favicon = ""

@@ -1,3 +1,7 @@
 footer .footer-wrapper {
     display: none;
 }
+
+header .intro {
+    position: static;
+}

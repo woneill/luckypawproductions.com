@@ -1,6 +1,6 @@
 ---
-title: Creative Storytelling via video production
-description: Creative Storytelling via video production
+title: Telling stories, one frame at a time.
+description: Telling stories, one frame at a time.
 ---
 
 Over my 25+ year career I have had the honor of telling some incredible stories. I have begun to showcase some of them here.

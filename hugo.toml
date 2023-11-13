@@ -5,17 +5,27 @@ theme = "personal-web"
 copyright = "2023"
 
 [params.intro]
-  main = "Kim O'Neill, Lucky Paw Productions"
-  sub = "Creative Storytelling via video production"
+  main = "Kim O'Neill"
+  sub = "Video Editor, Storyteller"
 
 [params.sidebar]
   #backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   #gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "/images/headshot.jpg"
+  logo = "/images/luckypawproductions.jpg"
 
 [params.assets]
   favicon = ""
   customCSS = "/custom.css"
+
+[params.social]
+  linkedin = "https://www.linkedin.com/in/kimberly-o-neill-a307ab"
+  facebook = "https://www.facebook.com/luckypawproductions"
+  # youtube = "https://www.youtube.com/"
+  # instagram = "https://www.instagram.com/"
+
+[params.contact]
+  email = "kim@luckypawproductions.com"
+  text= "Email Me!" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 [menu]
 

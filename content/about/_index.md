@@ -15,3 +15,5 @@ Most recently, Kim’s credits include Story and Video Editor on the award-winni
 In 2023, Kim received the honor of “Best Editing” for her documentary work at the Blue Whiskey Film Festival and the NY International Film Awards.
 
 Originally from Buffalo, NY, Kim is a graduate of the SUNY Fredonia Communication program. She is a Mom, a scuba diver, and a lifelong fan of the Buffalo Bills. She currently resides in Atlanta, GA with her husband and their two sons.
+
+{{< figure src="/images/headshot.jpg" caption="Kim O'Neill" >}}

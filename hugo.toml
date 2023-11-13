@@ -6,7 +6,7 @@ copyright = "2023"
 
 [params.intro]
   main = "Kim O'Neill"
-  sub = "Owner/Video Editor, Producer, Storyteller"
+  sub = "Video Editor, Storyteller"
 
 [params.sidebar]
   #backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash

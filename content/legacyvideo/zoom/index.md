@@ -2,7 +2,7 @@
 title: Zoom Interview
 description: Zoom Interview
 work: []
-thumbnail: carol_munn/thumbnail.jpg
+thumbnail: zoom/thumbnail.jpg
 projectUrl:
 ---
 

@@ -42,3 +42,10 @@ copyright = "2023"
   title = "Portfolio"
   url = "/portfolio/"
   weight = -110
+
+[[menu.main]]
+  identifier = "legacyvideo"
+  name = "Legacy Video"
+  title = "Legacy Video"
+  url = "/legacyvideo/"
+  weight = -100

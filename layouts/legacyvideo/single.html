@@ -1,0 +1,11 @@
+{{ partial "header" .}}
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }} {{ if .Params.testimonial }}
+<h3>Testimonial</h3>
+<div class="testimonial-list">
+  {{ with .Params.testimonial }} {{ partial "legacyvideo/testimonial" . }} {{
+  end }}
+</div>
+{{ end }} {{ partial "footer" .}}

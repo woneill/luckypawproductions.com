@@ -1,6 +1,6 @@
 ---
-title: Carol Munn
-description: Carol Munn
+title: Zoom Interview
+description: Zoom Interview
 work: []
 thumbnail: carol_munn/thumbnail.jpg
 projectUrl:

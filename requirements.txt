@@ -10,7 +10,7 @@ idna==3.7
 multidict==6.0.5
 python-dotenv==1.0.1
 python-slugify==8.0.4
-PyVimeo==1.1.0
+PyVimeo==1.1.2
 requests==2.31.0
 six==1.16.0
 text-unidecode==1.3

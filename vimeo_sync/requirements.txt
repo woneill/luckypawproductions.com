@@ -7,7 +7,7 @@ charset-normalizer==3.4.4
 frozenlist==1.8.0
 future==1.0.0
 idna==3.11
-multidict==6.7.0
+multidict==6.7.1
 python-dotenv==1.2.1
 python-slugify==8.0.4
 PyVimeo==1.1.2
